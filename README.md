@@ -17,4 +17,4 @@ tasklist
 2. `pip3 install -r requirements` 或 `python3 -m pip install -r requirements`
 3. `python3 manage.py collectstatic`
 4. `python3 manage.py migrate`
-5. `python3 manage.py runserver`
+5. `python manage.py runserver`
